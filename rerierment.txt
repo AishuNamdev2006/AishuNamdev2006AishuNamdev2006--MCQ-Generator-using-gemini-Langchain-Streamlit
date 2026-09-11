@@ -6,4 +6,4 @@ pypdf
 pandas
 
 
--e .
+-e 
