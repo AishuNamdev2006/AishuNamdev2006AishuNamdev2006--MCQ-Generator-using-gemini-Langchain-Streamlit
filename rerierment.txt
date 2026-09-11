@@ -1,0 +1,9 @@
+google-genai
+langchain
+langchain-google-genai
+python-dotenv
+pypdf
+pandas
+
+
+-e .
